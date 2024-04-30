@@ -1,0 +1,118 @@
+# Custom format
+format = """($all
+)$character"""
+
+# Inserts a blank line between shell prompts
+add_newline = false
+
+# A continuation prompt that displays two filled in arrows
+continuation_prompt = "[→→](bold blue)"
+
+[line_break]
+disabled = true
+
+[character]
+success_symbol = "[](bold blue)"
+error_symbol   = "[](bold red)"
+
+[status]
+symbol = "🆗"
+success_symbol = ""
+format = '$symbol$signal_name$maybe_int'
+map_symbol = true
+disabled = false
+
+[sudo]
+style = "bold green"
+symbol = "🔑"
+disabled = false
+
+# Nerd Font Symbols
+
+[aws]
+symbol = "  "
+
+[buf]
+symbol = " "
+
+[c]
+symbol = " "
+
+[conda]
+symbol = " "
+
+[dart]
+symbol = " "
+
+[directory]
+read_only = " "
+truncation_length = 1
+truncation_symbol = ''
+format = "[$read_only]($read_only_style)"
+disabled = true
+
+[docker_context]
+symbol = " "
+
+[elixir]
+symbol = " "
+
+[elm]
+symbol = " "
+
+[git_branch]
+symbol = " "
+
+[golang]
+symbol = " "
+
+[haskell]
+symbol = " "
+
+[hg_branch]
+symbol = " "
+
+[java]
+symbol = " "
+
+[julia]
+symbol = " "
+
+[lua]
+symbol = " "
+
+[memory_usage]
+symbol = " "
+
+[meson]
+symbol = "喝 "
+
+[nim]
+symbol = " "
+
+[nix_shell]
+symbol = " "
+
+[nodejs]
+symbol = " "
+
+[package]
+symbol = " "
+
+[python]
+symbol = " "
+
+[rlang]
+symbol = "ﳒ "
+
+[ruby]
+symbol = " "
+
+[rust]
+symbol = " "
+
+[scala]
+symbol = " "
+
+[spack]
+symbol = "🅢 "
