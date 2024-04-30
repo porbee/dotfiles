@@ -1,0 +1,9 @@
+export HISTFILE=~/.config/zsh/.zsh_history
+export HISTSIZE=1000000
+export SAVEHIST=$HISTSIZE
+
+setopt INC_APPEND_HISTORY
+#export HISTTIMEFORMAT="[%F %T] "
+#setopt EXTENDED_HISTORY
+setopt HIST_IGNORE_SPACE
+setopt SHARE_HISTORY
