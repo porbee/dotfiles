@@ -1,0 +1,353 @@
+# Vim 9.1 generó este archivo "viminfo".
+# Puede editarlo, ¡sólo si tiene cuidado!
+
+# Viminfo version
+|1,4
+
+# Valor de 'encoding' cuando se escribió este archivo
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Historia de Línea de órdenes (de lo más nuevo a lo más antiguo):
+:wq!
+|2,0,1714239271,,"wq!"
+:q!
+|2,0,1714237740,,"q!"
+
+# Historia de Cadena de búsqueda (de lo más nuevo a lo más antiguo):
+
+# Historia de Expresión (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de entrada (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de depuración (de lo más nuevo a lo más antiguo):
+
+# Registros:
+""1	CHAR	0
+	EDITOR=nvim
+	VISUAL=nvim
+	TERMINAL='kitty'
+	BROWSER='firefox'
+|3,1,1,0,4,0,1714239267,"EDITOR=nvim","VISUAL=nvim","TERMINAL='kitty'","BROWSER='firefox'"
+"2	LINE	0
+	export ZDOTDIR="$HOME/.config/zsh"
+|3,0,2,1,1,0,1714237192,"export ZDOTDIR=\"$HOME/.config/zsh\""
+
+# Marcas en el archivo:
+'0  2  0  ~/.zshenv
+|4,48,2,0,1714239271,"~/.zshenv"
+'1  40  22  ~/.config/zsh/.zshrc
+|4,49,40,22,1714239236,"~/.config/zsh/.zshrc"
+'2  5  16  ~/.zshenv
+|4,50,5,16,1714239112,"~/.zshenv"
+'3  1  0  ~/.moc/config
+|4,51,1,0,1714238786,"~/.moc/config"
+'4  48  0  ~/.config/ranger/rifle.conf
+|4,52,48,0,1714238722,"~/.config/ranger/rifle.conf"
+'5  1  0  ~/.config/btop/btop.conf
+|4,53,1,0,1714238578,"~/.config/btop/btop.conf"
+'6  2  6  ~/.zshenv
+|4,54,2,6,1714238565,"~/.zshenv"
+'7  2  6  ~/.zshenv
+|4,55,2,6,1714238565,"~/.zshenv"
+'8  3  6  ~/.zshenv
+|4,56,3,6,1714238565,"~/.zshenv"
+'9  3  6  ~/.zshenv
+|4,57,3,6,1714238565,"~/.zshenv"
+
+# Lista de saltos (el más reciente va primero):
+-'  2  0  ~/.zshenv
+|4,39,2,0,1714239271,"~/.zshenv"
+-'  40  22  ~/.config/zsh/.zshrc
+|4,39,40,22,1714239236,"~/.config/zsh/.zshrc"
+-'  40  22  ~/.config/zsh/.zshrc
+|4,39,40,22,1714239236,"~/.config/zsh/.zshrc"
+-'  1  0  ~/.config/zsh/.zshrc
+|4,39,1,0,1714239116,"~/.config/zsh/.zshrc"
+-'  1  0  ~/.config/zsh/.zshrc
+|4,39,1,0,1714239116,"~/.config/zsh/.zshrc"
+-'  5  16  ~/.zshenv
+|4,39,5,16,1714239112,"~/.zshenv"
+-'  5  16  ~/.zshenv
+|4,39,5,16,1714239112,"~/.zshenv"
+-'  3  6  ~/.zshenv
+|4,39,3,6,1714238823,"~/.zshenv"
+-'  3  6  ~/.zshenv
+|4,39,3,6,1714238823,"~/.zshenv"
+-'  1  0  ~/.moc/config
+|4,39,1,0,1714238786,"~/.moc/config"
+-'  1  0  ~/.moc/config
+|4,39,1,0,1714238786,"~/.moc/config"
+-'  1  0  ~/.moc/config
+|4,39,1,0,1714238786,"~/.moc/config"
+-'  1  0  ~/.moc/config
+|4,39,1,0,1714238786,"~/.moc/config"
+-'  1  0  ~/.moc/config
+|4,39,1,0,1714238786,"~/.moc/config"
+-'  1  0  ~/.moc/config
+|4,39,1,0,1714238786,"~/.moc/config"
+-'  1  0  ~/.moc/config
+|4,39,1,0,1714238786,"~/.moc/config"
+-'  1  0  ~/.moc/config
+|4,39,1,0,1714238786,"~/.moc/config"
+-'  48  0  ~/.config/ranger/rifle.conf
+|4,39,48,0,1714238722,"~/.config/ranger/rifle.conf"
+-'  48  0  ~/.config/ranger/rifle.conf
+|4,39,48,0,1714238722,"~/.config/ranger/rifle.conf"
+-'  48  0  ~/.config/ranger/rifle.conf
+|4,39,48,0,1714238722,"~/.config/ranger/rifle.conf"
+-'  48  0  ~/.config/ranger/rifle.conf
+|4,39,48,0,1714238722,"~/.config/ranger/rifle.conf"
+-'  48  0  ~/.config/ranger/rifle.conf
+|4,39,48,0,1714238722,"~/.config/ranger/rifle.conf"
+-'  48  0  ~/.config/ranger/rifle.conf
+|4,39,48,0,1714238722,"~/.config/ranger/rifle.conf"
+-'  48  0  ~/.config/ranger/rifle.conf
+|4,39,48,0,1714238722,"~/.config/ranger/rifle.conf"
+-'  48  0  ~/.config/ranger/rifle.conf
+|4,39,48,0,1714238722,"~/.config/ranger/rifle.conf"
+-'  48  0  ~/.config/ranger/rifle.conf
+|4,39,48,0,1714238722,"~/.config/ranger/rifle.conf"
+-'  48  0  ~/.config/ranger/rifle.conf
+|4,39,48,0,1714238722,"~/.config/ranger/rifle.conf"
+-'  48  0  ~/.config/ranger/rifle.conf
+|4,39,48,0,1714238722,"~/.config/ranger/rifle.conf"
+-'  48  0  ~/.config/ranger/rifle.conf
+|4,39,48,0,1714238722,"~/.config/ranger/rifle.conf"
+-'  48  0  ~/.config/ranger/rifle.conf
+|4,39,48,0,1714238722,"~/.config/ranger/rifle.conf"
+-'  48  0  ~/.config/ranger/rifle.conf
+|4,39,48,0,1714238722,"~/.config/ranger/rifle.conf"
+-'  48  0  ~/.config/ranger/rifle.conf
+|4,39,48,0,1714238722,"~/.config/ranger/rifle.conf"
+-'  48  0  ~/.config/ranger/rifle.conf
+|4,39,48,0,1714238722,"~/.config/ranger/rifle.conf"
+-'  1  0  ~/.config/ranger/rifle.conf
+|4,39,1,0,1714238593,"~/.config/ranger/rifle.conf"
+-'  1  0  ~/.config/ranger/rifle.conf
+|4,39,1,0,1714238593,"~/.config/ranger/rifle.conf"
+-'  1  0  ~/.config/ranger/rifle.conf
+|4,39,1,0,1714238593,"~/.config/ranger/rifle.conf"
+-'  1  0  ~/.config/ranger/rifle.conf
+|4,39,1,0,1714238593,"~/.config/ranger/rifle.conf"
+-'  1  0  ~/.config/ranger/rifle.conf
+|4,39,1,0,1714238593,"~/.config/ranger/rifle.conf"
+-'  1  0  ~/.config/ranger/rifle.conf
+|4,39,1,0,1714238593,"~/.config/ranger/rifle.conf"
+-'  1  0  ~/.config/ranger/rifle.conf
+|4,39,1,0,1714238593,"~/.config/ranger/rifle.conf"
+-'  1  0  ~/.config/ranger/rifle.conf
+|4,39,1,0,1714238593,"~/.config/ranger/rifle.conf"
+-'  1  0  ~/.config/ranger/rifle.conf
+|4,39,1,0,1714238593,"~/.config/ranger/rifle.conf"
+-'  1  0  ~/.config/ranger/rifle.conf
+|4,39,1,0,1714238593,"~/.config/ranger/rifle.conf"
+-'  1  0  ~/.config/ranger/rifle.conf
+|4,39,1,0,1714238593,"~/.config/ranger/rifle.conf"
+-'  1  0  ~/.config/ranger/rifle.conf
+|4,39,1,0,1714238593,"~/.config/ranger/rifle.conf"
+-'  1  0  ~/.config/ranger/rifle.conf
+|4,39,1,0,1714238593,"~/.config/ranger/rifle.conf"
+-'  1  0  ~/.config/ranger/rifle.conf
+|4,39,1,0,1714238593,"~/.config/ranger/rifle.conf"
+-'  1  0  ~/.config/ranger/rifle.conf
+|4,39,1,0,1714238593,"~/.config/ranger/rifle.conf"
+-'  1  0  ~/.config/ranger/rifle.conf
+|4,39,1,0,1714238593,"~/.config/ranger/rifle.conf"
+-'  1  0  ~/.config/btop/btop.conf
+|4,39,1,0,1714238578,"~/.config/btop/btop.conf"
+-'  1  0  ~/.config/btop/btop.conf
+|4,39,1,0,1714238578,"~/.config/btop/btop.conf"
+-'  1  0  ~/.config/btop/btop.conf
+|4,39,1,0,1714238578,"~/.config/btop/btop.conf"
+-'  1  0  ~/.config/btop/btop.conf
+|4,39,1,0,1714238578,"~/.config/btop/btop.conf"
+-'  1  0  ~/.config/btop/btop.conf
+|4,39,1,0,1714238578,"~/.config/btop/btop.conf"
+-'  1  0  ~/.config/btop/btop.conf
+|4,39,1,0,1714238578,"~/.config/btop/btop.conf"
+-'  1  0  ~/.config/btop/btop.conf
+|4,39,1,0,1714238578,"~/.config/btop/btop.conf"
+-'  1  0  ~/.config/btop/btop.conf
+|4,39,1,0,1714238578,"~/.config/btop/btop.conf"
+-'  1  0  ~/.config/btop/btop.conf
+|4,39,1,0,1714238578,"~/.config/btop/btop.conf"
+-'  1  0  ~/.config/btop/btop.conf
+|4,39,1,0,1714238578,"~/.config/btop/btop.conf"
+-'  1  0  ~/.config/btop/btop.conf
+|4,39,1,0,1714238578,"~/.config/btop/btop.conf"
+-'  1  0  ~/.config/btop/btop.conf
+|4,39,1,0,1714238578,"~/.config/btop/btop.conf"
+-'  1  0  ~/.config/btop/btop.conf
+|4,39,1,0,1714238578,"~/.config/btop/btop.conf"
+-'  1  0  ~/.config/btop/btop.conf
+|4,39,1,0,1714238578,"~/.config/btop/btop.conf"
+-'  1  0  ~/.config/btop/btop.conf
+|4,39,1,0,1714238578,"~/.config/btop/btop.conf"
+-'  1  0  ~/.config/btop/btop.conf
+|4,39,1,0,1714238578,"~/.config/btop/btop.conf"
+-'  1  0  ~/.config/btop/btop.conf
+|4,39,1,0,1714238578,"~/.config/btop/btop.conf"
+-'  1  0  ~/.config/btop/btop.conf
+|4,39,1,0,1714238578,"~/.config/btop/btop.conf"
+-'  1  0  ~/.config/btop/btop.conf
+|4,39,1,0,1714238578,"~/.config/btop/btop.conf"
+-'  1  0  ~/.config/btop/btop.conf
+|4,39,1,0,1714238578,"~/.config/btop/btop.conf"
+-'  1  0  ~/.config/btop/btop.conf
+|4,39,1,0,1714238578,"~/.config/btop/btop.conf"
+-'  1  0  ~/.config/btop/btop.conf
+|4,39,1,0,1714238578,"~/.config/btop/btop.conf"
+-'  1  0  ~/.config/btop/btop.conf
+|4,39,1,0,1714238578,"~/.config/btop/btop.conf"
+-'  1  0  ~/.config/btop/btop.conf
+|4,39,1,0,1714238578,"~/.config/btop/btop.conf"
+-'  1  0  ~/.config/btop/btop.conf
+|4,39,1,0,1714238578,"~/.config/btop/btop.conf"
+-'  1  0  ~/.config/btop/btop.conf
+|4,39,1,0,1714238578,"~/.config/btop/btop.conf"
+-'  1  0  ~/.config/btop/btop.conf
+|4,39,1,0,1714238578,"~/.config/btop/btop.conf"
+-'  1  0  ~/.config/btop/btop.conf
+|4,39,1,0,1714238578,"~/.config/btop/btop.conf"
+-'  1  0  ~/.config/btop/btop.conf
+|4,39,1,0,1714238578,"~/.config/btop/btop.conf"
+-'  1  0  ~/.config/btop/btop.conf
+|4,39,1,0,1714238578,"~/.config/btop/btop.conf"
+-'  1  0  ~/.config/btop/btop.conf
+|4,39,1,0,1714238578,"~/.config/btop/btop.conf"
+-'  1  0  ~/.config/btop/btop.conf
+|4,39,1,0,1714238578,"~/.config/btop/btop.conf"
+-'  3  6  ~/.zshenv
+|4,39,3,6,1714238565,"~/.zshenv"
+-'  3  6  ~/.zshenv
+|4,39,3,6,1714238565,"~/.zshenv"
+-'  3  6  ~/.zshenv
+|4,39,3,6,1714238565,"~/.zshenv"
+-'  3  6  ~/.zshenv
+|4,39,3,6,1714238565,"~/.zshenv"
+-'  3  6  ~/.zshenv
+|4,39,3,6,1714238565,"~/.zshenv"
+-'  3  6  ~/.zshenv
+|4,39,3,6,1714238565,"~/.zshenv"
+-'  3  6  ~/.zshenv
+|4,39,3,6,1714238565,"~/.zshenv"
+-'  3  6  ~/.zshenv
+|4,39,3,6,1714238565,"~/.zshenv"
+-'  3  6  ~/.zshenv
+|4,39,3,6,1714238565,"~/.zshenv"
+-'  3  6  ~/.zshenv
+|4,39,3,6,1714238565,"~/.zshenv"
+-'  3  6  ~/.zshenv
+|4,39,3,6,1714238565,"~/.zshenv"
+-'  3  6  ~/.zshenv
+|4,39,3,6,1714238565,"~/.zshenv"
+-'  3  6  ~/.zshenv
+|4,39,3,6,1714238565,"~/.zshenv"
+-'  3  6  ~/.zshenv
+|4,39,3,6,1714238565,"~/.zshenv"
+-'  3  6  ~/.zshenv
+|4,39,3,6,1714238565,"~/.zshenv"
+-'  3  6  ~/.zshenv
+|4,39,3,6,1714238565,"~/.zshenv"
+-'  3  5  ~/.zshenv
+|4,39,3,5,1714238540,"~/.zshenv"
+-'  3  5  ~/.zshenv
+|4,39,3,5,1714238540,"~/.zshenv"
+-'  3  5  ~/.zshenv
+|4,39,3,5,1714238540,"~/.zshenv"
+
+# Historia de las marcas en los archivos (de la más reciente a la más antigua):
+
+> ~/.zshenv
+	*	1714239269	0
+	"	2	0
+	.	3	0
+	+	2	6
+	+	2	10
+	+	2	13
+	+	2	8
+	+	2	15
+	+	2	6
+	+	2	12
+	+	2	0
+	+	2	6
+	+	2	11
+	+	2	7
+	+	3	0
+
+> ~/.config/zsh/.zshrc
+	*	1714239233	0
+	"	40	22
+	^	40	23
+	.	40	23
+	+	36	20
+	+	37	21
+	+	38	18
+	+	40	23
+
+> ~/.moc/config
+	*	1714238784	0
+	"	1	0
+
+> ~/.config/ranger/rifle.conf
+	*	1714238716	0
+	"	48	0
+
+> ~/.config/btop/btop.conf
+	*	1714238575	0
+	"	1	0
+
+> ~/.config/i3/config
+	*	1714238277	0
+	"	1	0
+
+> ~/.config/dunst/dunstrc
+	*	1714238221	0
+	"	1	0
+
+> ~/programas/.vscode/c_cpp_properties.json
+	*	1714238031	0
+	"	1	0
+
+> ~/.zprofile
+	*	1714238011	0
+	"	1	0
+	^	5	34
+	.	5	33
+	+	5	33
+
+> ~/.dotfiles/.bin/bonsai.sh
+	*	1714237966	0
+	"	1	0
+
+> ~/.config/zsh/.zsh_history
+	*	1714237931	0
+	"	3051	0
+
+> ~/.dotfiles/zsh/.zprofile
+	*	1714237659	0
+	"	4	0
+	.	5	0
+	+	5	0
+
+> ~/.dotfiles/zsh/zprofile
+	*	1714236939	0
+	"	5	32
+	^	5	33
+	.	5	32
+	+	5	32
+
+> ~/.config/zsh/zprofile
+	*	1714236789	0
+	"	1	0
+
+> ~/.dotfiles/INSTALLER/configs_install/installer.sh
+	*	1714236745	0
+	"	1	0
+
+> ~/.dotfiles/INSTALLER/configs_install/dirmaker.sh
+	*	1714236741	0
+	"	1	0
