@@ -1,4 +1,4 @@
-cd ~/.dotfiles/i3/i3blocks
+cd $HOME/.dotfiles/i3/i3blocks
 
 git clone https://github.com/vivien/i3blocks-contrib.github
 
