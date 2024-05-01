@@ -1,0 +1,59 @@
+set recolor
+set guioptions ""
+set recolor-lightcolor \#1f2227
+set default-bg \#1f2227
+set adjust-open "best-fit"
+set scroll-page-aware "true"
+set sandbox none
+set statusbar-h-padding 0
+set statusbar-v-padding 0
+map K zoom in
+map R rotate
+map r reload
+map J zoom out
+set selection-clipboard clipboard
+
+#################################################################
+########################### CONFIG ##############################
+#################################################################
+
+set notification-error-bg       "#16161E" # bg
+set notification-error-fg       "#FF000F" # bright:red
+set notification-warning-bg     "#16161E" # bg
+set notification-warning-fg     "#FFD242" # bright:yellow
+set notification-bg             "#16161E" # bg
+set notification-fg             "#8CE10B" # bright:green
+
+set completion-bg               "#232323" # bg2
+set completion-fg               "#EEEEEC" # fg
+set completion-group-bg         "#16161E" # bg1
+set completion-group-fg         "#444444" # gray
+set completion-highlight-bg     "#008DF8" # bright:blue
+set completion-highlight-fg     "#232323" # bg2
+
+# Define the color in index mode
+set index-bg                    "#232323" # bg2
+set index-fg                    "#EEEEEC" # fg
+set index-active-bg             "#008DF8" # bright:blue
+set index-active-fg             "#232323" # bg2
+
+set inputbar-bg                 "#16161E" # bg
+set inputbar-fg                 "#EEEEEC" # fg
+
+set statusbar-bg                "#232323" # bg2
+set statusbar-fg                "#EEEEEC" # fg
+
+set highlight-color             "#FFD242" # bright:yellow
+set highlight-active-color      "#FFB900" # bright:orange
+
+set default-bg                  "#16161E" # bg
+set default-fg                  "#EEEEEC" # fg
+set render-loading              true
+set render-loading-bg           "#16161E" # bg
+set render-loading-fg           "#EEEEEC" # fg
+
+# Recolor book content's color
+set recolor-lightcolor          "#16161E" # bg
+set recolor-darkcolor           "#EEEEEC" # fg
+set recolor                     "true"
+# set recolor-keephue             true      # keep original color
