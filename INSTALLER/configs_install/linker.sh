@@ -71,6 +71,7 @@ ln -sf ~/.dotfiles/zsh/.zshenv ~
 sudo ln -sf ~/.dotfiles/bin/pipes.sh /bin
 sudo ln -sf ~/.dotfiles/bin/rain.sh /bin
 sudo ln -sf ~/.dotfiles/bin/bonsai.sh /bin
+sudo ln -sf ~/.dotfiles/bin/howmany.sh /bin
 # VSCODE
 ln -sf ~/.dotfiles/.vscode/extensions ~/.vscode
 ln -sf ~/.dotfiles/.vscode/argv.json ~/.vscode
