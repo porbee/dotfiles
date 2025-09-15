@@ -113,8 +113,3 @@ Then follow the indications that the bootstrap script gives you, selecting the o
 
 
 ## uninstall
-
-## license
-
-This config is under <a href="https://github.com/rxyhn/yoru/blob/main/LICENSE">GNU GPL-3.0 License.
-</a>
