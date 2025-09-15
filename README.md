@@ -1,7 +1,7 @@
 # dotfiles
-A simple Arch linux config, with usability and productivity in mind at the making of this config. Without ignoring the looks of it.
+A simple Arch linux config, with usability and productivity in mind at the making of this config. Without ignoring the looks of it. https://github.com/porbee/dotfiles/tree/main/.dotfiles/bin
 
-This way of personalizing my system uses i3 as its main window manager, and the top bar is powered with polybar. The terminal emulator is kitty, and has 4 custom scripts that are located at xxx.
+This way of personalizing my system uses i3 as its main window manager, and the top bar is powered with polybar. The terminal emulator is kitty, and has 4 custom scripts that are located at `https://github.com/porbee/dotfiles/tree/main/.dotfiles/bin`.
 
 The reason for this is to keep my dotfiles in a safe and easily downloadable repository. Mainly for not having to keep my dotfiles in a USB stick.
 
