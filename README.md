@@ -116,5 +116,5 @@ Then follow the indications that the bootstrap script gives you, selecting the o
 
 ## :scroll: ‎ <samp>License</samp>
 
-This config is under <a href="https://github.com/porbee/dotfiles/LICENSE">GNU GPL-3.0 License.
+This config is under <a href="https://github.com/porbee/dotfiles/blob/main/LICENSE">GNU GPL-3.0 License.
 </a>
