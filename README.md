@@ -113,3 +113,8 @@ Then follow the indications that the bootstrap script gives you, selecting the o
 
 
 ## uninstall
+
+## :scroll: ‎ <samp>License</samp>
+
+This config is under <a href="https://github.com/porbee/dotfiles/main/LICENSE">GNU GPL-3.0 License.
+</a>
