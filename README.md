@@ -5,6 +5,8 @@ This way of personalizing my system uses i3 as its main window manager, and the 
 
 The reason for this is to keep my dotfiles in a safe and easily downloadable repository. Mainly for not having to keep my dotfiles in a USB stick.
 
+## not updated for use without USB
+
 ## [fork it](https://github.com/porbee/dotfiles/fork)
 
 This is completely free, do not fear experimenting with the configs that i use, you can always adapt some of my configs to be the ones that you may want. Please be curious and try some for yourself. Good artists copy; great artists steal.
@@ -20,6 +22,24 @@ Here are some details about my setup:
 - **Application Launcher:** [rofi](https://github.com/davatorium/rofi)
 - **Music Player** [moc](https://github.com/jonsafari/mocp)
 
+## shortcuts
+
+> [!TIP]
+> The zsh [aliases](https://github.com/porbee/dotfiles/blob/main/.dotfiles/zsh/config/aliases.zsh) are located inside the zsh config directories. Feel free to change and adapt them to your workflow.
+
+| Command     | Description                    |
+| ----------- | ------------------------------ |
+| `⊞-h`       | Select the pane to the left    |
+| `⊞-j`       | Select the pane to the bottom  |
+| `⊞-k`       | Select the pane to the top     |
+| `⊞-l`       | Select the pane to the right   |
+| `⊞-ENTER`   | Start a terminal               |
+| `⊞-Q`       | Kill focused window            |
+| `⊞-D`       | Start the app laucher          |
+| `⊞-n`       | Change to workspace n          |
+
+> [!NOTE]
+> For more info on the keyboard shortcuts, go to the (config)[https://github.com/porbee/dotfiles/blob/main/.dotfiles/i3/config] file inside i3
 
 ## colorscheme
 
@@ -101,18 +121,29 @@ base_16 = {
 
 ## install
 
+> [!WARNING]
+> In order to proceed, you will need to execute some scripts that require superuser rights. I recommend you read the scripts to know what changes might be happening in your machine.
+>
+> If you have not backed up your config files, now its time. **Proceed at your own risk**.
+
 You can clone the repository wherever you want. The bootstrapper script will pull in the latest version and copy the files to your home folder.
 
 ```bash
 git clone https://github.com/porbee/dotfiles.git && cd dotfiles/INSTALLER && source bootstrap.sh
 ```
 
-Then follow the indications that the bootstrap script gives you, selecting the options that you want and suites you more. 
+Then follow the indications that the `bootstrap` script gives you, selecting the options that you want and suites you more. 
+
+## uninstall
+
+In order to uninstall, you had to execute `bootstrap.sh`. Then you have to enter the `INSTALLER/configs_uninstall` directory and execute [dotclean.sh](https://github.com/porbee/dotfiles/blob/main/INSTALLER/configs_uninstall/dotclean.sh), and proceed following the steps of the uninstallation.
 
 ## level
 
+> [!NOTE]
+> This feature is unfinished and needs to be polished, more info on the level executables inside the [directory](https://github.com/porbee/dotfiles/tree/main/INSTALLER/packs/level)
 
-## uninstall
+The level refers to `dotfiles/INSTALLER/packs/level`. The level mechanic is unfinished, and it was made for the installation to be compartimentalized. It is divided in five parts, and the user could specify how many layers (or levels) of the installation wants installed. Level one being the most basic and level five being the complete installation.
 
 ## license
 
