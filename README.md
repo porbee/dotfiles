@@ -1,5 +1,7 @@
+<a href="#--------"><img src="assets/base.png" width="1200px" alt="base"></a>
+
 # dotfiles
-A simple Arch linux config, with usability and productivity in mind at the making of this config. Without ignoring the looks of it.
+A simple Arch linux config, with usability and productivity in mind at the making of this config. Without ignoring the looks of it. A no-nonsense, fully-practical, built-for-working, focus-centered build for arch.
 
 This way of personalizing my system uses i3 as its main window manager, and the top bar is powered with polybar. The terminal emulator is kitty, and has 4 custom scripts that are located at `https://github.com/porbee/dotfiles/tree/main/.dotfiles/bin`.
 
@@ -118,6 +120,22 @@ base_16 = {
 </details>
 
 ## gallery
+
+| <b>Modern Top Panel</b>                                                                                  |
+| -------------------------------------------------------------------------------------------------------- |
+| <a href="#--------"><img src="assets/topbar.png" width="1000px" alt="bottom panel preview"></a>          |
+
+| <b>Aesthetic App Launcher</b>                                                                            |
+| -------------------------------------------------------------------------------------------------------- |
+| <a href="#--------"><img src="assets/applauncher_focused.png" width="500px" alt="dashboard preview"></a> |
+
+| <b>Minimalist Exitscreen</b>                                                                             |
+| -------------------------------------------------------------------------------------------------------- |
+| <a href="#--------"><img src="assets/exitscreen_focused.png" width="500px" alt="exitscreen preview"></a> |
+
+| <b>Terminal</b>                                                                                          |
+| -------------------------------------------------------------------------------------------------------- |
+| <a href="#--------"><img src="assets/term_focused.png" width="1000px" alt="exitscreen preview"></a>      |
 
 ## install
 
